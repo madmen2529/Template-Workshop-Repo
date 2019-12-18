@@ -3,4 +3,4 @@
 Contain branches
   - master
   - developer
-  - stage{level}{detail} (checkout point)
+  - stage-{level}-{detail} (checkout point)
