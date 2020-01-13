@@ -1,4 +1,4 @@
-# Template-Project-Repo
+# Template-Workshop-Repo
 
 Contain branches
   - master
